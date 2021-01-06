@@ -1,4 +1,4 @@
-prompt("Give me your");
+
 var userInput=document.querySelector("#txt-input")
 var but=document.querySelector("#btn")
 var output=document.querySelector("#output")
