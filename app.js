@@ -3,8 +3,8 @@ var userInput=document.querySelector("#txt-input")
 var but=document.querySelector("#btn")
 var output=document.querySelector("#output")
 
-function getDate(put){
-    var date= put.split("-")
+function getDate(input){
+    var date= input.split("-")
    // console.log(date[0])
     return date[0]
 
